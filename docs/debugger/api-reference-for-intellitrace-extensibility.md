@@ -22,7 +22,7 @@ This namespace contains the IntelliTrace extensibility APIs:
 
 - <xref:Microsoft.VisualStudio.IntelliTrace>
 
-## Related sections
+## Related content
 
 [IntelliTrace](../debugger/intellitrace.md)
 Provides information about how to debug with IntelliTrace.

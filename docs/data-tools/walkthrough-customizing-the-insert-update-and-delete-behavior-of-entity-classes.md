@@ -267,7 +267,7 @@ Run the application again to verify that the **UpdateCustomers** stored procedur
     > [!NOTE]
     > If your application uses SQL Server Express Edition, depending on the value of the **Copy to Output Directory** property of the database file, the changes may not appear when you press **F5** in step 10.
 
-## Next steps
+## Additional enhancements
 
 Depending on your application requirements, there are several steps that you may want to perform after you create LINQ to SQL entity classes. Some enhancements you could make to this application include the following:
 
@@ -275,7 +275,7 @@ Depending on your application requirements, there are several steps that you may
 
 - Add LINQ queries to filter data. For information, see [Introduction to LINQ queries (C#)](/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries).
 
-## See also
+## Related content
 
 - [LINQ to SQL tools in Visual Studio](../data-tools/linq-to-sql-tools-in-visual-studio2.md)
 - [DataContext methods](../data-tools/datacontext-methods-o-r-designer.md)

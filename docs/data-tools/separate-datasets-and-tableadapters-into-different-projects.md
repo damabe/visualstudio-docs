@@ -55,7 +55,7 @@ By default, after you separate the dataset and TableAdapter code, the result is 
 > [!NOTE]
 > To view the generated class file, select the dataset or TableAdapter project. Then, in **Solution Explorer**, select **Show All Files**.
 
-## See also
+## Related content
 
 - [N-tier data applications overview](../data-tools/n-tier-data-applications-overview.md)
 - [Walkthrough: Creating an N-tier data application](../data-tools/walkthrough-creating-an-n-tier-data-application.md)
